@@ -1,2 +1,2 @@
 <?php
-echo "Astore Codex test çalışıyor!";
+echo "Astore Codex uğurla işlədi!";

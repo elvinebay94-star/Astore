@@ -1,0 +1,2 @@
+# Astore
+Astore.az

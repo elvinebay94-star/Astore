@@ -1,7 +1,7 @@
 {
   "name": "Astore Codex Project",
   "version": "1.0.0",
-  "description": "Codex tarafından işlenen komutlar ve yapılar için temel proje.",
-  "entry": "src/index.js",
-  "language": "javascript"
+  "description": "Astore için Codex yapılandırması",
+  "entry": "index.php",
+  "language": "php"
 }
